@@ -1,3 +1,4 @@
+
 h1.heading {
   font-size: 60px;
   text-align: center;
@@ -8,7 +9,7 @@ h1.heading {
 }
 
 div.service.component__space {
-  background-image: url("C:\Users\SANEM\Desktop\AllmarkLandingPage\images\view.png");
+  background-image: url(./../images/view.png);
   background-repeat: no-repeat;
   background-size: 100%;
 }
