@@ -25,11 +25,11 @@ function About() {
                 user guide!
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="#">
+                <a href="https://drive.google.com/file/d/11pfj4vLcPogNJJFNRsb-Ejr4JTDLL6hT/view" target= "_blank">
                   <button className="about btn pointer">User Guide</button>
                 </a>
-                <a href="#">
-                  <button className="about btn pointer">Install</button>
+                <a href="https://drive.google.com/file/d/11pfj4vLcPogNJJFNRsb-Ejr4JTDLL6hT/view" target= "_blank">
+                  <button className="about btn pointer">Installation Guide</button>
                 </a>
               </div>
             </div>

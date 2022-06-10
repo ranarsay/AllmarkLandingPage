@@ -2,6 +2,7 @@ import React from "react";
 import "./Project.css";
 import Sanem from "./img/SanemYaman.jpeg";
 import Hilal from "./img/HilalAnarsay.jpg";
+import Mert from "./img/MertCanBilgic.jpeg"
 import Project3 from "./img/portfolio-1.jpg";
 import Project4 from "./img/portfolio-2.jpg";
 import {Link} from "reactstrap";
@@ -53,7 +54,7 @@ function Project() {
             <div className="project__box pointer relative">
               <div className="project__box__img pointer relative">
                 <div className="project__image__box">
-                  <img src={Project3} alt="0" className="project__img" />
+                  <img src={Mert} alt="0" className="project__img" />
                 </div>
                 <div className="mask__effect"></div>
               </div>

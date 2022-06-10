@@ -22,16 +22,13 @@ function Home() {
                 <li className="nav__items mx__15">Home</li>
               </a>
               <a href="#Feedback">
-                <li className="nav__items mx__15">Feedbak</li>
+                <li className="nav__items mx__15">Feedback</li>
               </a>
               <a href="#Features">
                 <li className="nav__items mx__15">Features</li>
               </a>
               <a href="#OurTeam">
                 <li className="nav__items mx__15">Our Team</li>
-              </a>
-              <a href="#FAQ">
-                <li className="nav__items mx__15">F.A.Q</li>
               </a>
             </ul>
           </div>

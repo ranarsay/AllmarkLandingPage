@@ -12,7 +12,7 @@ function Contact() {
           <div className="col__3">
             <div className="service__box pointer">
               <div className="icon">
-                <img src="https://img.icons8.com/fluency/48/undefined/chrome.png" alt="" />
+                <img src="https://img.icons8.com/fluency/130/undefined/chrome.png" alt="" />
               </div>
               <div className="service__meta"></div>
               <h1 className="service__text">Chrome</h1>
@@ -22,7 +22,7 @@ function Contact() {
           <div className="col__3">
             <div className="service__box pointer">
               <div className="icon">
-                <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-firefox-a-free-and-open-source-web-browser-developed-by-the-mozilla-foundation-logo-color-tal-revivo.png" alt=""/>
+                <img src="./../images/firefox_logo.png" alt=""/>
               </div>
               <div className="service__meta"></div>
               <h1 className="service__text">Firefox</h1>
@@ -32,7 +32,7 @@ function Contact() {
           <div className="col__3">
             <div className="service__box pointer">
               <div className="icon">
-                <img src="https://img.icons8.com/fluency/48/undefined/opera.png" alt="" />
+                <img src="https://img.icons8.com/fluency/130/undefined/opera.png" alt="" />
               </div>
               <div className="service__meta"></div>
               <h1 className="service__text">Opera</h1>
